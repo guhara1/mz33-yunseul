@@ -1,0 +1,26 @@
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://yunseultherapy.netlify.app/sitemap.xml
+Sitemap: https://yunseultherapy.netlify.app/sitemap-hub.xml
+Sitemap: https://yunseultherapy.netlify.app/sitemap-area.xml
+Sitemap: https://yunseultherapy.netlify.app/sitemap-topic.xml
+Sitemap: https://yunseultherapy.netlify.app/rss.xml

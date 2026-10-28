@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://yunseultherapy.netlify.app/sitemap.xml
-Sitemap: https://yunseultherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://yunseultherapy.netlify.app/sitemap-area.xml
-Sitemap: https://yunseultherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://yunseultherapy.netlify.app/rss.xml
+Sitemap: https://yunseultherapy.pages.dev/sitemap.xml
+Sitemap: https://yunseultherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://yunseultherapy.pages.dev/sitemap-area.xml
+Sitemap: https://yunseultherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://yunseultherapy.pages.dev/rss.xml
